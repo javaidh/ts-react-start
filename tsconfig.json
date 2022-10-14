@@ -10,9 +10,10 @@
       "dom"
     ],
     "removeComments": true,
-    "allowSyntheticDefaultImports": false,
+    "allowSyntheticDefaultImports": true,
     "jsx": "react",
     "allowJs": true,
+    "esModuleInterop": true,
     "baseUrl": "./src",
     "paths": {
       "components/*": ["components/*"],

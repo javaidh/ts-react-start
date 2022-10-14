@@ -1,3 +1,4 @@
+import * as React from "react";
 import { Demo } from "./demo";
 
 describe("<Demo>", () => {
